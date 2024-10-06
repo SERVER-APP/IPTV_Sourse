@@ -5,7 +5,7 @@
            "name": "中国移动",
 		   "boot":true,
       "type": 0,
-      "url": "./CMCC/default.txt",
+      "url": "https://cdn.jsdelivr.net/gh/SERVER-APP/IPTV_Sourse@refs/heads/main/CMCC/default.txt",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
